@@ -34,8 +34,3 @@ Cryptography/
 ## 🧪 How to Run
 
 Each algorithm has its own `main()` method and can be compiled and run
-
-### ✏️ Author
-Ganna Abdelrhman 💻
-Student @ Faculty of Computers and AI – Cairo University
-Passionate about cybersecurity and cryptography.
